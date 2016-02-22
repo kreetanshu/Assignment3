@@ -1,0 +1,6 @@
+a,b = 20,10
+
+puts (a+b).to_s + " " + "(Addition)"
+puts (a-b).to_s + " " + "(Substraction)"
+puts (a*b).to_s + " " + "(Multiplication)"
+puts (a/b).to_s + " " + "(Divison)"
